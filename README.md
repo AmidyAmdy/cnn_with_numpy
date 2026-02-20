@@ -58,8 +58,8 @@ CNN_model.ipynb
 
 ## Результаты
 
-- Validation accuracy: ~96%
-- Test accuracy: ~96%
+- Validation accuracy: ~94%
+- Test accuracy: ~95%
 - Confusion matrix показывает выраженную диагональ
 - Основные ошибки — визуально похожие цифры (например 4 и 9)
 
